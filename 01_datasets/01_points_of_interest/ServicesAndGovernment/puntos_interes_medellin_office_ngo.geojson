@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "puntos_interes_medellin_office_ngo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6695689615, "addr:housenumber": "39-215", "addr:street": "Calle 7", "name": "ACNUR", "office": "ngo", "addr:city": null, "opening_hours": null, "phone": null, "website": null, "nodes": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ -75.5710874, 6.2060627 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11201291211, "addr:housenumber": "32-204", "addr:street": "Carrera 81A", "name": "Liga de Radioaficionados de Medellin", "office": "ngo", "addr:city": "Comuna 16 - Belén", "opening_hours": "Mo-Fr 09:00-17:00, Sat 09:00-13:00", "phone": "+573112160031", "website": "https://ligaradio.co/", "nodes": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ -75.6012991, 6.2354327 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12057505869, "addr:housenumber": null, "addr:street": null, "name": "Fundación Aire Eterno", "office": "ngo", "addr:city": null, "opening_hours": null, "phone": null, "website": null, "nodes": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ -75.5394829, 6.2549626 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12057511369, "addr:housenumber": null, "addr:street": null, "name": "Fundación aire eterno", "office": "ngo", "addr:city": null, "opening_hours": null, "phone": null, "website": null, "nodes": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ -75.5394637, 6.2547663 ] } },
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 546449309, "addr:housenumber": null, "addr:street": null, "name": "Junta de Acción Comunal Betania", "office": "ngo", "addr:city": null, "opening_hours": null, "phone": null, "website": null, "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.6211227, 6.2440799 ], [ -75.6210744, 6.2440333 ], [ -75.6210888, 6.2440155 ], [ -75.6211174, 6.24398 ], [ -75.6211697, 6.2440266 ], [ -75.6211227, 6.2440799 ] ] ] } },
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 712124079, "addr:housenumber": "#51-21", "addr:street": "Calle 44", "name": "Punto de Atención y Orientación ACNUR", "office": "ngo", "addr:city": null, "opening_hours": null, "phone": null, "website": null, "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.5714844, 6.2447209 ], [ -75.5716399, 6.2443479 ], [ -75.5712579, 6.2441905 ], [ -75.5711024, 6.2445635 ], [ -75.5714844, 6.2447209 ] ] ] } }
+]
+}

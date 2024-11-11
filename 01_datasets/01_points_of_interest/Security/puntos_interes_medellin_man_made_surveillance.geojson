@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "puntos_interes_medellin_man_made_surveillance",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4666563788, "highway": "speed_camera", "man_made": "surveillance", "maxspeed": "60", "name": "Fotodetección", "surveillance:type": "camera" }, "geometry": { "type": "Point", "coordinates": [ -75.5656594, 6.2096463 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5214639322, "highway": null, "man_made": "surveillance", "maxspeed": null, "name": null, "surveillance:type": null }, "geometry": { "type": "Point", "coordinates": [ -75.5919074, 6.2227063 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6401151385, "highway": null, "man_made": "surveillance", "maxspeed": null, "name": null, "surveillance:type": null }, "geometry": { "type": "Point", "coordinates": [ -75.5835297, 6.2543632 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8392508971, "highway": null, "man_made": "surveillance", "maxspeed": null, "name": null, "surveillance:type": "camera" }, "geometry": { "type": "Point", "coordinates": [ -75.5768374, 6.2392443 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8392508972, "highway": null, "man_made": "surveillance", "maxspeed": null, "name": null, "surveillance:type": "camera" }, "geometry": { "type": "Point", "coordinates": [ -75.5769917, 6.2392256 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11154814059, "highway": null, "man_made": "surveillance", "maxspeed": null, "name": null, "surveillance:type": "camera" }, "geometry": { "type": "Point", "coordinates": [ -75.5781651, 6.2549397 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11599346253, "highway": null, "man_made": "surveillance", "maxspeed": null, "name": null, "surveillance:type": "camera" }, "geometry": { "type": "Point", "coordinates": [ -75.5745959, 6.197319 ] } }
+]
+}

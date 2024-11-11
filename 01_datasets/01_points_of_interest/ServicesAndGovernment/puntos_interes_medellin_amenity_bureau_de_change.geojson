@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "puntos_interes_medellin_amenity_bureau_de_change",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5109520121, "amenity": "bureau_de_change", "name": "Western Union", "opening_hours": "Mo-Sa 08:00-18:30", "addr:street": null, "source": null, "payment:cash": null, "payment:credit_cards": null, "payment:debit_cards": null }, "geometry": { "type": "Point", "coordinates": [ -75.5709927, 6.2788975 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5512558125, "amenity": "bureau_de_change", "name": "efecty", "opening_hours": null, "addr:street": "Carrera 87", "source": "Kaart Ground Survey 2018", "payment:cash": null, "payment:credit_cards": null, "payment:debit_cards": null }, "geometry": { "type": "Point", "coordinates": [ -75.6046754, 6.2600468 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10096730779, "amenity": "bureau_de_change", "name": null, "opening_hours": null, "addr:street": null, "source": null, "payment:cash": "yes", "payment:credit_cards": "yes", "payment:debit_cards": "yes" }, "geometry": { "type": "Point", "coordinates": [ -75.5744501, 6.1987494 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11207886627, "amenity": "bureau_de_change", "name": "Western Union Edificio Coltejer", "opening_hours": null, "addr:street": null, "source": null, "payment:cash": null, "payment:credit_cards": null, "payment:debit_cards": null }, "geometry": { "type": "Point", "coordinates": [ -75.5660302, 6.2501785 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11207911683, "amenity": "bureau_de_change", "name": "Nutifinanzas Edificio Coltejer", "opening_hours": null, "addr:street": null, "source": null, "payment:cash": null, "payment:credit_cards": null, "payment:debit_cards": null }, "geometry": { "type": "Point", "coordinates": [ -75.5661986, 6.2501339 ] } }
+]
+}

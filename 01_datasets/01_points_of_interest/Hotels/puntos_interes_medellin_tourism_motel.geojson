@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "puntos_interes_medellin_tourism_motel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9112415297, "name": "Gas Inyecieni", "tourism": "motel", "nodes": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ -75.5885621, 6.2484918 ] } },
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 760130576, "name": "Kuboz", "tourism": "motel", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.5883492, 6.239113 ], [ -75.5882347, 6.2391148 ], [ -75.5882314, 6.2389563 ], [ -75.588228, 6.2387962 ], [ -75.5882278, 6.2387854 ], [ -75.588344, 6.2387871 ], [ -75.5883466, 6.2389479 ], [ -75.5883492, 6.239113 ] ] ] } }
+]
+}

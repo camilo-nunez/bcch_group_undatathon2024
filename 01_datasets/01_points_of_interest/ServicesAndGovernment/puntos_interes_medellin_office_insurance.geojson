@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "puntos_interes_medellin_office_insurance",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 3576470687, "name": "Delima Marsh", "office": "insurance" }, "geometry": { "type": "Point", "coordinates": [ -75.581321, 6.188957 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5856834904, "name": "Delima", "office": "insurance" }, "geometry": { "type": "Point", "coordinates": [ -75.5641928, 6.2494965 ] } }
+]
+}
